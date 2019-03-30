@@ -9,4 +9,6 @@
 lab11norm.ipynb - приклад (Розподіл Гаусса), завдання наведено в ЕНК  
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master) 
+
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/m-fryz/projects/statistics-cs-2)
