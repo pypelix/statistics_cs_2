@@ -8,6 +8,8 @@
 11.1 Комп'ютерне моделювання та статистичне оцінювання  
 lab11norm.ipynb - приклад (Розподіл Гаусса), завдання наведено в ЕНК  
 
+11.2 Статистичний аналіз числа символів у sms-повідомленнях (ham і spam)
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master) 
 
