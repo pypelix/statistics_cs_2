@@ -11,7 +11,8 @@ lab11norm.ipynb - приклад (Розподіл Гаусса), завданн
 11.2 Статистичний аналіз числа символів у sms-повідомленнях (ham і spam)  
 lab112header.ipynb - початок (зчитування даних, та ін., див коментарі)  
 spam.csv - колекція смс-повідомлень  
-readme_spam-ham.txt - опис даних у файлі spam.csv   
+readme_spam-ham.txt - опис даних spam.csv   
+завдання наведено в ЕНК
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master) 
