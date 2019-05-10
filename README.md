@@ -12,7 +12,12 @@ lab11norm.ipynb - приклад (Розподіл Гаусса), завданн
 lab112header.ipynb - початок (зчитування даних, та ін., див коментарі)  
 spam.csv - колекція смс-повідомлень  
 readme_spam-ham.txt - опис даних spam.csv   
-завдання наведено в ЕНК
+завдання наведено в ЕНК  
+
+
+#### Лабораторна робота №14  
+
+lab14.ipynb - завдання і приклад виконання роботи, теоретичний матеріал див. в ЕНК
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master) 
