@@ -5,8 +5,7 @@
 #### Лабораторна робота №9 (2021, весна). Ймовірнісний аналіз неперервних випадкових величин із використанням Numpy і SciPy
 [pt_lab09_1.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb)
  (LaTeX в JupyterLab або Jupyter Notebook буде працювати)  
- [pt_lab09_1.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb)
-
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb) 
 
 
 
