@@ -3,7 +3,8 @@
 ### Приклади виконання лабораторних робіт з курсу "Теорія ймовірностей, ймовірнісні процеси та математична статистика" (2019, оновлені версії на GitHub Gist)
 
 #### Лабораторна робота №9 (2021, весна). Ймовірнісний аналіз неперервних випадкових величин із використанням Numpy і SciPy
-pt_lab09_1.ipynb (LaTeX в JupyterLab або Jupyter Notebook буде працювати)  
+[pt_lab09_1.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb)
+ (LaTeX в JupyterLab або Jupyter Notebook буде працювати)  
 
 
 
