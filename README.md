@@ -15,6 +15,9 @@ readme_spam-ham.txt - опис даних spam.csv
 SMS_train.csv - колекція смс-повідомлень, взято [тут](https://www.kaggle.com/datatattle/email-classification-nlp?select=SMS_train.csv)  
 tweets.csv - колекція твітів, взято [тут](https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv)
 
+#### Лабораторна робота №12
+
+lab13_dataset - вибірки (комп'ютерне моделювання), двовимірний нормальний розподіл із різними характеристиками (40 варіантів)
 
 #### Лабораторна робота №14  
 
