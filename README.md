@@ -5,8 +5,8 @@
 #### Лабораторна робота №9 (2021 - 2022 весна). Ймовірнісний аналіз неперервних випадкових величин із використанням Numpy і SciPy
 [pt_lab09_1.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb)
 
-####Лабораторна робота №10.2 Оцінювання числових характеристик випадкових величин
-[pt_lab10_2s.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab09_1.ipynb)
+#### Лабораторна робота №10.2 Оцінювання числових характеристик випадкових величин  
+[pt_lab10_2s.ipynb](https://github.com/pypelix/statistics_cs_2/blob/master/pt_lab10_2s.ipynb)
 
 #### Лабораторна робота №11
 
