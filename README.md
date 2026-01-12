@@ -16,6 +16,7 @@ SMS_train.csv - колекція смс-повідомлень, взято [ту
 tweets.csv - колекція твітів, взято [тут](https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv)   
 Corona_NLP_train.csv - колекція твітів, взято [тут](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification)    
 Telegram_Spam_or_Ham.csv - колекція Telegram Spam or Ham, взято [тут](https://www.kaggle.com/datasets/mexwell/telegram-spam-or-ham)
+Dataset_5971.csv - SMS PHISHING DATASET, взято [тут](https://data.mendeley.com/datasets/f45bkkt8pr/1)
 
 #### Лабораторна робота №12
 
