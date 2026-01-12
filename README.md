@@ -14,7 +14,7 @@ spam.csv - колекція смс-повідомлень
 readme_spam-ham.txt - опис даних spam.csv   
 SMS_train.csv - колекція смс-повідомлень, взято [тут](https://www.kaggle.com/datatattle/email-classification-nlp?select=SMS_train.csv)  
 tweets.csv - колекція твітів, взято [тут](https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv)   
-Corona_NLP_train.csv - колекція твітів, взято [тут](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification) 
+Corona_NLP_train.csv - колекція твітів, взято [тут](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification)    
 Telegram_Spam_or_Ham.csv - колекція Telegram Spam or Ham, взято [тут](https://www.kaggle.com/datasets/mexwell/telegram-spam-or-ham)
 
 #### Лабораторна робота №12
