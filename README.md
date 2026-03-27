@@ -23,10 +23,6 @@ Youtube03-LMFAO.csv, Youtube04-Eminem.csv, Youtube05-Shakira.csv - YouTube Spam 
 
 lab12_dataset - вибірки (комп'ютерне моделювання), двовимірний нормальний розподіл із різними характеристиками (99 варіантів)
 
-#### Лабораторна робота №14  
-
-lab14.ipynb - завдання і приклад виконання роботи, теоретичний матеріал див. в ЕНК
-
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pypelix/statistics_cs_2/master) 
 
